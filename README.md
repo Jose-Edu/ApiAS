@@ -17,4 +17,4 @@ dotnet run
 ```
 
 Após executar o comando, o terminal informará a porta que está sendo usada para rodar a API, permindo fazer as requisições.
-Para facilitar o uso da API, é possível o Swagger acessando "http://localhost:[porta-aqui]/swagger" através de um navegador.
+Para facilitar o uso da API, é possível usar o Swagger acessando "http://localhost:[porta-aqui]/swagger" através de um navegador.
